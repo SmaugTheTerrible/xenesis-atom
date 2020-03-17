@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle xenesis-atom",
+        "command": "xenesis-atom:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "xenesis-atom",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "xenesis-atom:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
