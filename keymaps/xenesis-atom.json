@@ -1,5 +1,6 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "xenesis-atom:toggle"
+    "shift-s": "xenesis-atom:add-symbol",
+    "shift-d": "xenesis-atom:add-use"
   }
 }

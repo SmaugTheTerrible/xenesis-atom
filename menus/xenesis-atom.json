@@ -2,8 +2,12 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle xenesis-atom",
-        "command": "xenesis-atom:toggle"
+        "label": "Add symbol",
+        "command": "xenesis-atom:add-symbol"
+      },
+      {
+        "label": "Add use",
+        "command": "xenesis-atom:add-use"
       }
     ]
   },
@@ -15,8 +19,12 @@
           "label": "xenesis-atom",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "xenesis-atom:toggle"
+              "label": "Add symbol",
+              "command": "xenesis-atom:add-symbol"
+            },
+            {
+              "label": "Add use",
+              "command": "xenesis-atom:add-use"
             }
           ]
         }

@@ -5,9 +5,7 @@
   "description": "A short description of your package",
   "keywords": [
   ],
-  "activationCommands": {
-    "atom-workspace": "xenesis-atom:toggle"
-  },
+  
   "repository": "https://github.com/atom/xenesis-atom",
   "license": "MIT",
   "engines": {
