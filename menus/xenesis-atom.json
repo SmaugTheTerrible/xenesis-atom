@@ -19,6 +19,10 @@
           "label": "xenesis-atom",
           "submenu": [
             {
+              "label": "Toggle panel",
+              "command": "xenesis-atom:toggle"
+            },
+            {
               "label": "Add symbol",
               "command": "xenesis-atom:add-symbol"
             },
